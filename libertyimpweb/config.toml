@@ -1,0 +1,4 @@
+baseURL = 'http://libertyimp.xyz/'
+languageCode = 'en-us'
+title = 'LibertyImp'
+theme = "lugo"

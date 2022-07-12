@@ -1,0 +1,4 @@
+[submodule "libertyimpweb/public"]
+	path = libertyimpweb/public
+	url = https://github.com/libertyimp/libertyimp.github.io.git
+	branch = main
