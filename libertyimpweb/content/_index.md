@@ -15,11 +15,18 @@ If you would like to follow me on social media you can do so at:\
 ---
 **Donations**
 
-- XMR: 8B1h2dUappEP4YTMxxVr5oYsprYFeEvAAggQpR9FnGBK6D1nKTuJ3wNg9bvyiQJDNoX69pi6WjouKB4ZvacgXymv7F9XH8k
+I prefer XMR and BCH as they are both actually useful and I use crypoCURRENCY as currency, however all donations of any currency are still greatly appreciated.
 
-- BTC: bc1ql6n0mqtl0mjnj58p2kl8d92rpl6r6xj45r480mp
+ ![xmr_logo](/xmr-logo.png)
 
-- BCH: bitcoincash:qpfjd4q0q6pfrcphf85x424xx8tuj3svs55g6e3d8z
+> ``XMR: 8B1h2dUappEP4YTMxxVr5oYsprYFeEvAAggQpR9FnGBK6D1nKTuJ3wNg9bvyiQJDNoX69pi6WjouKB4ZvacgXymv7F9XH8k``
 
-- USDC: 0xf9C39d4527e4b43424F616A968A9f3bD2F2E4426
+ ![bch_logo](/bch-logo.svg)
+
+> ``BCH: bitcoincash:qpfjd4q0q6pfrcphf85x424xx8tuj3svs55g6e3d8z``
+
+ ![btc_logo](/btc-logo.png)
+ 
+> ``BTC: bc1ql6n0mqtl0mjnj58p2kl8d92rpl6r6xj45r480mp``
+
 ---
